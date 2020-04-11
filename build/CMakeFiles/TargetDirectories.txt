@@ -1,0 +1,3 @@
+/home/hossam/workspace/CppND-System-Monitor/build/CMakeFiles/rebuild_cache.dir
+/home/hossam/workspace/CppND-System-Monitor/build/CMakeFiles/monitor.dir
+/home/hossam/workspace/CppND-System-Monitor/build/CMakeFiles/edit_cache.dir
